@@ -13,5 +13,5 @@ npm install
 
 npm run dev
 
-After the server starts, open your browser and go to
-👉 http://localhost:3000
+*After the server starts, open your browser and go to
+👉 http://localhost:3000*
