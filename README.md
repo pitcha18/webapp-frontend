@@ -7,7 +7,6 @@ It uses **Next.js** with automatic font optimization and live reloading.
 
 1. Install dependencies
 
-```bash
 npm install
 
 2. Run the development server
