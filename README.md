@@ -5,11 +5,12 @@ It uses **Next.js** with automatic font optimization and live reloading.
 
 ## 🚀 Getting Started
 
-1️⃣ Install dependencies
+1. Install dependencies
+
 ```bash
 npm install
 
-2️⃣ Run the development server
+2. Run the development server
 
 npm run dev
 
